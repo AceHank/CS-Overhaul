@@ -521,6 +521,71 @@
         "color": [255, 255, 255]
     },
     {
+        "name": "Armagh-type",
+        "friendBonusUniques":  [
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
+			"Religion naturally spreads to cities [+2] tiles away",
+        ],
+        "allyBonusUniques":  [
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
+			"Religion naturally spreads to cities [+4] tiles away",
+        ],
+        "color": [255, 255, 255]
+    },
+    {
+        "name": "Chinguetti-type",
+        "friendBonusUniques":  [
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
+			"[+1 Faith] from [Trading post] tiles [in all cities]",
+        ],
+        "allyBonusUniques":  [
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
+			"[+2 Faith] from [Trading post] tiles [in all cities]",
+        ],
+        "color": [255, 255, 255]
+    },
+    {
+        "name": "Kandy-type",
+        "friendBonusUniques":  [
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
+			"[+7]% [Faith] from every [Plantation]"
+        ],
+        "allyBonusUniques":  [
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
+			"[+15]% [Faith] from every [Plantation]"
+        ],
+        "color": [255, 255, 255]
+    },
+    {
+        "name": "La Venta-type",
+        "friendBonusUniques":  [
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
+			"[+2 Faith, +1 Culture] from every [National Wonder]"
+        ],
+        "allyBonusUniques":  [
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
+			"[+2 Faith, +1 Culture] from every [National Wonder]"
+			"[+2 Faith, +1 Culture] from every [World Wonder]"
+        ],
+        "color": [255, 255, 255]
+    },
+    {
         "name": "Cahokia-type",
         "friendBonusUniques":  [
             "[+4 Faith] <before the [Medieval era]>",

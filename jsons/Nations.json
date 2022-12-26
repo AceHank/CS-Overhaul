@@ -383,18 +383,6 @@
 		"cities": ["Bratislava"]
 	},
 	{
-		"name": "Cahokia",
-		"adjective": ["Cahokia"],
-		"cityStateType": "Cahokia-type",
-
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "This isn't how it is supposed to be!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [203, 253, 232],
-		"cities": ["Cahokia"]
-	},
-	{
 		"name": "Jerusalem",
 		"adjective": ["Jerusalem"],
 		"cityStateType": "Jerusalem-type",
@@ -405,6 +393,66 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
 		"cities": ["Jerusalem"]
+	},
+	{
+		"name": "Armagh",
+		"adjective": ["Armagh"],
+		"cityStateType": "Armagh-type",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [198,234,192],
+		"cities": ["Armagh"]
+	},
+	{
+		"name": "Chinguetti",
+		"adjective": ["Chinguetti"],
+		"cityStateType": "Chinguetti-type",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [235,255,192],
+		"cities": ["Chinguetti"]
+	},
+	{
+		"name": "Kandy",
+		"adjective": ["Kandy"],
+		"cityStateType": "Kandy-type",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [189,255,200],
+		"cities": ["Kandy"]
+	},
+	{
+		"name": "La Venta",
+		"adjective": ["La Venta"],
+		"cityStateType": "La Venta-type",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [212,255,232],
+		"cities": ["La Venta"]
+	},
+	{
+		"name": "Cahokia",
+		"adjective": ["Cahokia"],
+		"cityStateType": "Cahokia-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [203, 253, 232],
+		"cities": ["Cahokia"]
 	},
 	
 	//Scientific
