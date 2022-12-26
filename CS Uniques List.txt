@@ -86,8 +86,8 @@ Religious: "[+4 Faith] <before the [Medieval era]>",
    Armagh Ally: eligion naturally spreads to cities +4 tiles away
 4. Chinguetti Friend: +1 Faith from Trading post in all cities
    Chinguetti Ally: +2 Faith from Trading post in all cities
-5. Kandy Friend: +7% Faith from every Plantation
-   Kandy Ally: +15% Faith from every Plantation
+5. Kandy Friend: +1 Faith from Plantation in all cities
+   Kandy Ally: +2 Faith from Plantation in all cities
 6. La Venta Friend: +2 Faith, +1 Culture from every National Wonder
    La Venta Ally: Friend bonus and +2 Faith, +1 Culture from every World Wonder
 7. Cahokia Ally: Newly-trained Civilian can construct Cahokian Mounds improvement
