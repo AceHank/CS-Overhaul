@@ -558,13 +558,13 @@
             "[+4 Faith] <before the [Medieval era]>",
             "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Faith] <starting from the [Industrial era]>",
-			"[+7]% [Faith] from every [Plantation]"
+			"[+1 Faith] from [Plantation] tiles [in all cities]"
         ],
         "allyBonusUniques":  [
             "[+4 Faith] <before the [Medieval era]>",
             "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Faith] <starting from the [Industrial era]>",
-			"[+15]% [Faith] from every [Plantation]"
+			"[+2 Faith] from [Plantation] tiles [in all cities]"
         ],
         "color": [255, 255, 255]
     },
