@@ -82,7 +82,15 @@ Religious: "[+4 Faith] <before the [Medieval era]>",
    Bratislava Ally: Friend bonus and Faith cos of purchasing items -25%
 2. Jerusalem Friend: +34% Natural religion spread in all cities 
    Jerusalem Ally: Friend bonus and +34% Spread religion Strength
-3. Cahokia Ally: Newly-trained Civilian can construct Cahokian Mounds improvement
+3. Armagh Friend: Religion naturally spreads to cities +2 tiles away
+   Armagh Ally: eligion naturally spreads to cities +4 tiles away
+4. Chinguetti Friend: +1 Faith from Trading post in all cities
+   Chinguetti Ally: +2 Faith from Trading post in all cities
+5. Kandy Friend: +7% Faith from every Plantation
+   Kandy Ally: +15% Faith from every Plantation
+6. La Venta Friend: +2 Faith, +1 Culture from every National Wonder
+   La Venta Ally: Friend bonus and +2 Faith, +1 Culture from every World Wonder
+7. Cahokia Ally: Newly-trained Civilian can construct Cahokian Mounds improvement
 
 Scientific: "[+2 Science] <before the [Medieval era]>",
             "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
