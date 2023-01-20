@@ -10,9 +10,9 @@
 			"[+5]% [Culture] from every [Amphitheater]"
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>"
 			"[+5]% [Culture] from every [Monument]",
 			"[+5]% [Culture] from every [Amphitheater]",				
 			"[+5]% [Culture] from every [Opera House]",
@@ -29,9 +29,9 @@
 			"[+1 Culture] per [1] social policies adopted"
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
 			"[+2 Culture] per [1] social policies adopted"
         ],
         "color": [139, 96, 255]
@@ -45,9 +45,9 @@
 			"[+1 Culture] from every [Mine]"
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
 			"[+1 Culture] from every [Mine]",
 			"[+1 Culture] from every [Strategic resource]"
         ],
@@ -62,9 +62,9 @@
 			"[+1 Culture] from every [Shrine]"
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
 			"[+1 Culture] from every [Shrine]", 
 			"[+2 Culture] from every [Temple]"
         ],
@@ -79,9 +79,9 @@
 			"[+2 Culture] from every [Walls]"
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
 			"[+2 Culture] from every [Walls]",
 			"[+2 Culture] from every [Castle]",
         ],
@@ -96,9 +96,9 @@
 			"[+2 Culture] from every specialist [in all cities]"
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
 			"[+2 Culture] from every specialist [in all cities]",
 			"[+2 Gold] from every [Artist]"
         ],
@@ -112,9 +112,9 @@
             "[+16 Culture] <starting from the [Industrial era]>",
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
 			"[Civilian] units gain the [Batey Construct] promotion"
         ],
         "color": [139, 96, 255]
@@ -138,7 +138,7 @@
 			"[+2 Food] [in capital]",
 			"[+10]% growth [in all cities]"],
         "allyBonusUniques": [
-			"[+2 Food] [in capital]",
+			"[+2 Food] [in capital]", "[+1 Food] [in all cities]",
 			"[+20]% growth [in all cities]"],
         "color": [56, 255, 112]
     },
@@ -148,7 +148,7 @@
 			"[+2 Food] [in capital]",
 			"[+1 Culture] from every [Lakes]"],
         "allyBonusUniques": [
-			"[+2 Food] [in capital]",
+			"[+2 Food] [in capital]","[+1 Food] [in all cities]",
 			"[+1 Culture] from every [Lakes]",
 			"[+1 Culture] from every [Water resource]"],
         "color": [56, 255, 112]
@@ -159,7 +159,7 @@
 			"[+2 Food] [in capital]",
 			"[+1 Food] from every [Fishing Boats]"],
         "allyBonusUniques": [
-			"[+2 Food] [in capital]",
+			"[+2 Food] [in capital]","[+1 Food] [in all cities]",
 			"[+1 Food] from every [Fishing Boats]"
 			"[+1 Production] from every [Fishing Boats]"],
         "color": [56, 255, 112]
@@ -171,7 +171,7 @@
 			"[+1 Gold] from every [Monument]"
 			"[+1 Gold] from every [Amphitheater]"],
         "allyBonusUniques": [
-			"[+2 Food] [in capital]",
+			"[+2 Food] [in capital]","[+1 Food] [in all cities]",
 			"[+1 Gold] from every [Monument]",
 			"[+1 Gold] from every [Amphitheater]",
 			"[+1 Gold] from every [Opera House]",
@@ -184,7 +184,7 @@
 			"[+2 Food] [in capital]",
 			"[10]% Food is carried over after population increases [in all cities]"],
         "allyBonusUniques": [
-			"[+2 Food] [in capital]",
+			"[+2 Food] [in capital]","[+1 Food] [in all cities]",
 			"[20]% Food is carried over after population increases [in all cities]"],
         "color": [56, 255, 112]
     },
@@ -194,7 +194,7 @@
 			"[+2 Food] [in capital]",
 			"[+2 Gold] in cities on [River] tiles"],
         "allyBonusUniques": [
-			"[+2 Food] [in capital]",
+			"[+2 Food] [in capital]","[+1 Food] [in all cities]",
 			"[+2 Gold] in cities on [River] tiles",
 			"[+2 Gold] in cities on [Coastal] tiles"],
         "color": [56, 255, 112]
@@ -397,7 +397,7 @@
 			"[+3]% [Production] from every [Military Academy]"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns",
 			"[+5]% [Production] from every [Barracks]",
 			"[+5]% [Production] from every [Armory]",
 			"[+5]% [Production] from every [Military Academy]"
@@ -411,7 +411,7 @@
 			"[+75]% Yield from every [Land] <in [Fort] tiles>"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns",
 			"[+150]% Yield from every [Land] <in [Fort] tiles>"
 		],
         "color": [255, 0, 0]
@@ -423,7 +423,7 @@
 			"[+10]% Strength <for [Melee] units>"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns",
 			"[+20]% Strength <for [Melee] units>"
 		],
         "color": [255, 0, 0]
@@ -438,7 +438,7 @@
 			"[+50]% Production when constructing [Military Base] buildings [in all cities]"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns",
 			"[+100]% Production when constructing [Walls] buildings [in all cities]",
 			"[+100]% Production when constructing [Castle] buildings [in all cities]",
 			"[+100]% Production when constructing [Arsenal] buildings [in all cities]",
@@ -453,7 +453,7 @@
 			"[+25]% Strength <vs cities>"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns",
 			"[+50]% Strength <vs cities>"
 		],
         "color": [255, 0, 0]
@@ -465,7 +465,7 @@
 			"[+50]% XP gained from combat <when attacking>"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns",
 			"[+100]% XP gained from combat <when attacking>"
 		],
         "color": [255, 0, 0]
@@ -476,7 +476,7 @@
 			"Provides military units every ≈[20] turns"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns",
 			"[Civilian] units gain the [Alcazar Construct] promotion"
 		],
         "color": [255, 0, 0]
@@ -495,9 +495,9 @@
 			"[Gold] cost of purchasing items in cities [-25]%"
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"[Gold] cost of purchasing items in cities [-25]%",
 			"[Faith] cost of purchasing items in cities [-25]%"
         ],
@@ -512,9 +512,9 @@
 			"[+34]% Natural religion spread [in all cities]"
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"[+34]% Natural religion spread [in all cities]",
 			"[+34]% Spread Religion Strength"
         ],
@@ -529,9 +529,9 @@
 			"Religion naturally spreads to cities [+2] tiles away",
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"Religion naturally spreads to cities [+4] tiles away",
         ],
         "color": [255, 255, 255]
@@ -545,9 +545,9 @@
 			"[+1 Faith] from [Trading post] tiles [in all cities]",
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"[+2 Faith] from [Trading post] tiles [in all cities]",
         ],
         "color": [255, 255, 255]
@@ -561,9 +561,9 @@
 			"[+1 Faith] from [Plantation] tiles [in all cities]"
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"[+2 Faith] from [Plantation] tiles [in all cities]"
         ],
         "color": [255, 255, 255]
@@ -577,9 +577,9 @@
 			"[+2 Faith, +1 Culture] from every [National Wonder]"
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"[+2 Faith, +1 Culture] from every [National Wonder]"
 			"[+2 Faith, +1 Culture] from every [World Wonder]"
         ],
@@ -593,9 +593,9 @@
             "[+16 Faith] <starting from the [Industrial era]>",
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"[Civilian] units gain the [Cahokian Mounds Construct] promotion"
         ],
         "color": [255, 255, 255]
@@ -619,16 +619,16 @@
     {
         "name": "Anshan-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
 			"[+1 Science] from every [Library]",
 			"[+1 Science] from every [University]",
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"[+1 Science] from every [Library]",
 			"[+1 Science] from every [University]",
 			"[+2 Science] from every [Public School]",
@@ -639,15 +639,15 @@
     {
         "name": "Bologna-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
 			"[+5] HP when healing"
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"[+8] HP when healing"
         ],
         "color": [0,0,255]
@@ -655,15 +655,15 @@
     {
         "name": "Fez-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
 			"When spreading religion to a city, gain [5] times the amount of followers of other religions as [Science]"
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]"
         ],
         "color": [0,0,255]
@@ -671,15 +671,15 @@
     {
         "name": "Geneva-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
 			"[+10]% [Science] <when not at war>"
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"[+20]% [Science] <when not at war>"
         ],
         "color": [0,0,255]
@@ -687,15 +687,15 @@
     {
         "name": "Mitla-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
 			"[+25 Gold, +25 Science] whenever a Great Person is expended"
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"[+50 Gold, +50 Science] whenever a Great Person is expended"
         ],
         "color": [0,0,255]
@@ -703,15 +703,15 @@
     {
         "name": "Hattusa-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
 			"[+1 Science] from every [Great Improvement]"
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"[+2 Science] from every [Great Improvement]"
         ],
         "color": [0,0,255]
@@ -719,14 +719,14 @@
     {
         "name": "Nalanda-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"[Civilian] units gain the [Mahavihara Construct] promotion"
         ],
         "color": [0,0,255]
@@ -747,9 +747,9 @@
 			"[+1 Production] from all [Production] buildings"
         ],
         "allyBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+4 Production] [in all cities] <before the [Medieval era]>",
+            "[+6 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+2 Production] from all [Production] buildings"
         ],
         "color": [139,69,19]
@@ -763,9 +763,9 @@
 			"[+10]% Production when constructing [All] wonders [in all cities]"
         ],
         "allyBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+4 Production] [in all cities] <before the [Medieval era]>",
+            "[+6 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+20]% Production when constructing [All] wonders [in all cities]"
         ],
         "color": [139,69,19]
@@ -779,9 +779,9 @@
 			"[+2 Production] [in all cities connected to capital]"
         ],
         "allyBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+4 Production] [in all cities] <before the [Medieval era]>",
+            "[+6 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+4 Production] [in all cities connected to capital]"
         ],
         "color": [139,69,19]
@@ -795,9 +795,9 @@
 			"[+1 Production] from every [Coast]"
         ],
         "allyBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+4 Production] [in all cities] <before the [Medieval era]>",
+            "[+6 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+2 Production] from every [Coast]"
         ],
         "color": [139,69,19]
@@ -811,9 +811,9 @@
 			"[+10]% Production when constructing [All] buildings [in all cities]"
         ],
         "allyBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+4 Production] [in all cities] <before the [Medieval era]>",
+            "[+6 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+20]% Production when constructing [All] buildings [in all cities]"
         ],
         "color": [139,69,19]
@@ -827,9 +827,9 @@
 			"[+1 Happiness] from every [Bonus resource]"
         ],
         "allyBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+4 Production] [in all cities] <before the [Medieval era]>",
+            "[+6 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+1 Happiness] from every [Bonus resource]",
 			"[+1 Happiness] from every [Strategic resource]"
         ],
@@ -844,9 +844,9 @@
 			"[+1 Production] from every [Strategic resource]"
         ],
         "allyBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+4 Production] [in all cities] <before the [Medieval era]>",
+            "[+6 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+1 Production] from every [Bonus resource]",
 			"[+1 Production] from every [Strategic resource]",
 			"[+1 Production] from every [Luxury resource]"
@@ -861,9 +861,9 @@
             "[+6 Production] [in all cities] <starting from the [Industrial era]>",
         ],
         "allyBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+4 Production] [in all cities] <before the [Medieval era]>",
+            "[+6 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+1 Happiness] from every [Bonus resource]",
 			"[Civilian] units gain the [Crafters' Guild Construct] promotion"
         ],
