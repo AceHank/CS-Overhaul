@@ -690,13 +690,15 @@
             "[+4 Science] <before the [Medieval era]>",
             "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Science] <starting from the [Industrial era]>",
-			"[+25 Gold, +25 Science] whenever a Great Person is expended"
+			"Gain [25] [Gold] <upon expending a [Great Person] unit>",
+			"Gain [25] [Science] <upon expending a [Great Person] unit>"
         ],
         "allyBonusUniques":  [
             "[+6 Science] <before the [Medieval era]>",
             "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+26 Science] <starting from the [Industrial era]>",
-			"[+50 Gold, +50 Science] whenever a Great Person is expended"
+			"Gain [50] [Gold] <upon expending a [Great Person] unit>",
+			"Gain [50] [Science] <upon expending a [Great Person] unit>"
         ],
         "color": [0,0,255]
     },
@@ -870,4 +872,5 @@
         "color": [139,69,19]
     },
 	
+
 ]
