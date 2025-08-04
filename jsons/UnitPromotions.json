@@ -1,27 +1,28 @@
 [
 	{
 		"name": "Batey Construct",
-		"uniques": ["Can construct [Batey]"]
+		"uniques": ["Can instantly construct a [Batey] improvement <by consuming this unit>"]
 	},	
 	{
 		"name": "Trading Dome Construct",
-		"uniques": ["Can construct [Trading Dome]"]
+		"uniques": ["Can instantly construct a [Trading Dome] improvement <by consuming this unit>"]
 	},	
 	{
 		"name": "Alcazar Construct",
-		"uniques": ["Can construct [Alcazar]"]
+		"uniques": ["Can instantly construct a [Alcazar] improvement <by consuming this unit>"]
 	},	
 	{
 		"name": "Cahokian Mounds Construct",
-		"uniques": ["Can construct [Cahokian Mounds]"]
+		"uniques": ["Can instantly construct a [Cahokian Mounds] improvement <by consuming this unit>"]
 	},	
 	{
 		"name": "Mahavihara Construct",
-		"uniques": ["Can construct [Mahavihara]"]
+		"uniques": ["Can instantly construct a [Mahavihara] improvement <by consuming this unit>"]
 	},	
 	{
 		"name": "Crafters' Guild Construct",
-		"uniques": ["Can construct [Crafters' Guild]"]
+		"uniques": ["Can instantly construct a [Crafters' Guild] improvement <by consuming this unit>"]
 	},	
 	
+
 ]
